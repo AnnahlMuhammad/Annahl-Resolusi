@@ -5,3 +5,8 @@ Resolusi Annahl =
 4. Belajar SQL
 5. Beli kelas DQlab buat SQL
 6. Beli kelas progate untuk SQL
+7. Review MongoDB
+8. Belajar React JS
+9. Beli kelas progate buat React JS
+10. Belajar bootstrap
+11. Mulai bikin projek
