@@ -2,3 +2,6 @@ Resolusi Annahl =
 1. Memperdalam Github
 2. Belajar SQL
 3. Beli kelas progate buat github
+4. Belajar SQL
+5. Beli kelas DQlab buat SQL
+6. Beli kelas progate untuk SQL
