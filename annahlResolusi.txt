@@ -12,4 +12,5 @@ Resolusi Annahl =
   11. Mulai bikin projek
   12. Belajar android developer
   13. Belajar IOS Developer
-  14> Belajar Multi developer
+  14. Belajar Multi developer
+  15. Try to make an application
